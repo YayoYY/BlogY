@@ -12,7 +12,7 @@
 
 [2026-02：激光相机标定工具FastCalib改造ros2-humble版本](2026/2026-02：激光相机标定工具FastCalib改造ros2-humble版本.md)
 
-[2026-03：Nvidia Jetson AGX Orin安装软件后重启蓝屏问题解决](2026/2026-03：Nvidia Jetson AGX Orin安装软件后重启蓝屏问题解决.md)
+[2026-03：Nvidia Jetson AGX Orin安装软件后重启蓝屏问题解决](2026/2026-03：Nvidia_Jetson_AGX_Orin安装软件后重启蓝屏问题解决.md)
 
 
 
