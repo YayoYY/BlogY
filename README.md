@@ -14,6 +14,7 @@
 
 [2026-03：Nvidia Jetson AGX Orin安装软件后重启蓝屏问题解决](2026/2026-03：Nvidia_Jetson_AGX_Orin安装软件后重启蓝屏问题解决.md)
 
+[2026-04：OpenPCDet训练环境搭建与雾天模拟数据微调PointPillar](2026-04：OpenPCDet训练环境搭建与雾天模拟数据微调PointPillar.md)
 
 
 ## 2025
