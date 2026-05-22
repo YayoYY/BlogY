@@ -16,6 +16,7 @@
 
 [2026-04：OpenPCDet训练环境搭建与雾天模拟数据微调PointPillar](2026/2026-04：OpenPCDet训练环境搭建与雾天模拟数据微调PointPillar.md)
 
+[2026-05：大陆毫米波ARS40X驱动ros2版本](2026/2026-05：大陆毫米波ARS40X驱动ros2版本.md)
 
 ## 2025
 
